@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "a@a.com",
+      "gender": "Male"
+    },
+    {
+      "firstName": "Alidad",
+      "lastName": "Soleimani",
+      "email": "alidad@dorisa.com",
+      "gender": "MALE",
+      "id": 2
+    }
+  ]
+}

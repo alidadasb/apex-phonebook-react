@@ -15,7 +15,7 @@ export default function ContactForm(props) {
       gender: ${gender}`);
 
 
-        fetch("http://localhost:8080/api/contact/", {
+        fetch("http://localhost:3001/contacts", {
             method: 'POST',
             mode: 'cors',
             cache: 'no-cache',
